@@ -20,7 +20,7 @@ This mode is intended for viewing and editing the equipment list
 * User selects item “Equipment”; 
 * Application displays list of equipment. 
 
-![ Pic. 1.1 View the equipment list.]( https://drive.google.com/file/d/1w-u2DJSQultJkqoZ4xJQ914mVBRnqn3S/view?usp=sharing)
+![ Pic. 1.1 View the equipment list.]( https://lh6.googleusercontent.com/C-JdC60gTuol_-YQSy-owBKEIz9Eo3ztKNPIvAXbLxGItTfpq3lZu_b0IbvJGN30Hbmlp5iV4VgBEgqTAdGT=w1920-h942-rw)
 
 The list displays the following columns: 
 * Code – code of the equipment; 
@@ -50,7 +50,7 @@ The list displays the following columns:
 * Data don’t save in data base, then list of equipment records is displaying to user. 
 * If the user selects the menu item " Sales”, ”Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![ Pic. 1.2 Add equipment.]( https://drive.google.com/file/d/1EPdkQbnhVkByuv0JKkU_qWt545kW6mF6/view?usp=sharing)
+![ Pic. 1.2 Add equipment.]( https://lh4.googleusercontent.com/BYSV95vcXvmB1aB_NlygPSEeSgufWT1ySiC3p1Y3ybNkTxs-NtenJOpftymw4-vv_jYg2tnBpXdQph-Xd2M8=w1920-h942)
 
 When adding a equipment, the following details are entered: 
 * Code – code of the equipment; 
@@ -78,7 +78,7 @@ Constraints for data validation:
 * Data don’t save in data base, then list of equipment records is displaying to user. 
 * If the user selects the menu item " Sales”, ”Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![Pic. 1.3 Edit equipment.]( https://drive.google.com/file/d/1EPdkQbnhVkByuv0JKkU_qWt545kW6mF6/view?usp=sharing)
+![Pic. 1.3 Edit equipment.]( https://lh6.googleusercontent.com/aheSoMcukyfJ0keVR3r3mmrQFenNZrfCmbGkBlcoGvlvfkfnp1CL90O0VzXAELvNu21tspWDwTeEBtLa7gaQ=w1227-h942)
 
 ### 1.4 Removing the equipment
 #### Main scenario: 
@@ -94,7 +94,7 @@ Constraints for data validation:
 * User press “Cancel” button; 
 * List of equipment without changes is displaying. 
 
-![Pic. 1.4 Delete equipment dialog.](https://drive.google.com/file/d/1tqWqvnwaD9rR-VF4ElwXGUygT6txF1nd/view?usp=sharing)
+![Pic. 1.4 Delete equipment dialog.]( https://lh3.googleusercontent.com/uR2_qIrbTwUFQNKc1xz9XcPK1TL8Wh4IwQThaCmlIi3cPzFonG0mEyWJUM744DZR6M8Pm-jrBpJ73QQlUKUk=w1227-h942)
 
 ## 2. Clients 
 ### 2.1 Display list of Clients 
@@ -103,7 +103,7 @@ This mode is intended for viewing and editing the clients list.
 * User selects item “Clients”; 
 * Application displays list of clients.
 
-![ Pic 2.1 View the clients list.]( https://drive.google.com/file/d/1tB7e4aPxzVGn1dHtYKXYw5dfz87bCGoN/view?usp=sharing)
+![ Pic 2.1 View the clients list.]( https://lh4.googleusercontent.com/xdTAQbDS6zUBOa603TPrPQ8S1fpcIOCMevvZXxYUzvnj2PK2ZnOYINNOoMqilmv1qnQRaSS_SYtOm0rid-DA=w1227-h942)
 #### The list displays the following columns: 
 * Code – client’s code; 
 * Full name – client’s full name; 
@@ -134,7 +134,7 @@ This mode is intended for viewing and editing the clients list.
 * Data don’t save in data base, then list of clients records is displaying to user. 
 * If the user selects the menu item " Sales”, “Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![ Pic. 2.2 Add client.]( https://drive.google.com/file/d/1s1-4NwtFN5bw83nhqatIAkV_xrhSqH_N/view?usp=sharing)
+![ Pic. 2.2 Add client.]( https://lh3.googleusercontent.com/Of7yrQbvgI6dDzgGuJf0eDHCfCd8GZXn0LjruUvGI2g4toqQbssOGdkklZMSDvIrhYQ3CLd7-aIpLWk3eVlV=w1227-h942)
 
 When adding a client, the following details are entered: 
 * Code – client’s code; 
@@ -162,7 +162,7 @@ Constraints for data validation:
 * Data don’t save in data base, then list of clients records is displaying to user. 
 * If the user selects the menu item " Sales”, “Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![ Pic. 2.3 Edit client.]( https://drive.google.com/file/d/1s1-4NwtFN5bw83nhqatIAkV_xrhSqH_N/view?usp=sharing)
+![ Pic. 2.3 Edit client.]( https://lh3.googleusercontent.com/Of7yrQbvgI6dDzgGuJf0eDHCfCd8GZXn0LjruUvGI2g4toqQbssOGdkklZMSDvIrhYQ3CLd7-aIpLWk3eVlV=w1227-h942)
 
 ### 2.4 Removing client 
 #### Main scenario: 
@@ -173,7 +173,7 @@ Constraints for data validation:
 * If error occurs, then error message displays; 
 * If client record is successfully deleted, then list of clients without deleted records is displaying. 
 
-![ Pic. 2.4 Delete client dialog.]( https://drive.google.com/file/d/1kdxUL3wXjkIOw3tVbYTBYi1tQ5MXA9HS/view?usp=sharing)
+![ Pic. 2.4 Delete client dialog.]( https://lh6.googleusercontent.com/GzlTDAYmenzMeYZc4VOX_eivC_Zugq3-DHMyGZoI8-w7FdgWmI2xOyys3GiYVK1pgFTd44kJ4Iqki3iPUYZG=w1227-h942)
 
 Cancel operation scenario: 
 * User is in display mode of clients list and press “Delete” button; 
@@ -187,7 +187,7 @@ The mode is designed to view the list of sales, if it possible to display the nu
 * User selects item “Sales”; 
 * Application displays list of sales.
 
-![ Pic. 3.1 View the sales list.]( https://drive.google.com/file/d/1iEm0d3R10C1tZsgTPfbvcJEFZkZ_-y4J/view?usp=sharing)
+![ Pic. 3.1 View the sales list.]( https://lh5.googleusercontent.com/DL31UGdXCu-CRVCzKi9KDyWYjsfMie9a4xhpY_5YdOV8yeu0PrPfam0OfSazLnuSO5qk8NC_6X5CwvFx3NkS=w1227-h942)
 
 The list displays the following columns: 
 * Code – sale’s code; 
@@ -214,7 +214,7 @@ The list displays the following columns:
 * Data don’t save in data base, then list of sales records is displaying to user. 
 * If the user selects the menu item " Sales”, “Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![Pic. 3.2 Add order.]( https://drive.google.com/file/d/1F85H6-wFASDxoA7vV88pqgc1E_Bsx5JA/view?usp=sharing)
+![Pic. 3.2 Add order.]( https://lh6.googleusercontent.com/-uWCq3jFs2iYlPatad_Hb7QGtAjl2EURXhhvBlV8vxi8GZ3Ll0b22WPRpTCcisjBAUEVJMrgaO5nFD1RBiEd=w1227-h942)
 
 When adding a sale, the following details are entered: 
 * Code – sale’s code; 
@@ -237,7 +237,7 @@ When adding a sale, the following details are entered:
 * Data don’t save in data base, then list of sales records is displaying to user. 
 * If the user selects the menu item " Sales”, “Clients” or "Equipment ", the data will not be saved to the database and the corresponding form with updated data will be opened.
 
-![ Pic. 3.3 Edit order.]( https://drive.google.com/file/d/1F85H6-wFASDxoA7vV88pqgc1E_Bsx5JA/view?usp=sharing)
+![ Pic. 3.3 Edit order.]( https://lh3.googleusercontent.com/8WBCPbkenyNucPconwi2dEljFbV6YoVidOIRGqhX65d2jdU3n4EoIs9_oeXM0CbiD-uqOq9cauz_cJK6TA7a=w1227-h942)
 
 When editing a sale, the following details are entered: 
 * Code – sale’s code; 
@@ -256,11 +256,13 @@ Constraints for data validation:
 * If error occurs, then error message displays; 
 * If order record is successfully deleted, then list of sales without deleted records is displaying. 
 
-![Pic. 3.4 Delete order dialog.]( https://drive.google.com/file/d/1hRfs1pnqdazxftYPXbjQMH5LMZFWcWdB/view?usp=sharing)
+![Pic. 3.4 Delete order dialog.]( https://lh3.googleusercontent.com/DQyBFzM5WgKvJwEMQYO-jR4KbyyE6yDEHGWz__QYoPrk67-23LaTOrO9eohWMZaWYdPYu9ZvcPUeOHOciTxf=w1227-h942)
 
 #### Cancel operation scenario: 
 * User is in display mode of orders list and press “Delete” button; 
 * Application displays confirmation dialog “Please confirm delete sale?”; 
 * User press “Cancel” button; 
 * List of sales without changes is displaying.
+
+
 
